@@ -1,0 +1,2 @@
+# Migratory-divide
+I developed the R function test_migratory_connectivity to test the ability of the method I proposed in one of my paper to: 1) correctly identify a migratory divide based on geographic location (longitude) in the breeding and winter seasons; and 2) compare the relative explanatory power of a parallel migratory system versus a flyway migratory system, the latter relying on the previously identified migratory divide
